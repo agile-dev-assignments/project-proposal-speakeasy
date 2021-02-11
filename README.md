@@ -1,6 +1,6 @@
 # Project Proposal 
 
-# Speakeasy
+# Speakeasy 
 
 ## What and why?
 
@@ -23,3 +23,7 @@ Hopefully once the platform works in-browser we will then also be able to expand
 ## Easter Egg
 Anyone will be able to search for the Speakeasy website however the initial page displayed will be fake, hiding the true application. Users will have to already know the secret button/combination used to unlock the real website. Unless you have been told how to solve this mini puzzle you will be unable to use Speakeasy!
 
+## Collaberators 
+Oli Chen - oac240 
+
+Currently looking for 1 to 3 team members to help distribute the work.
