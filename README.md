@@ -8,7 +8,7 @@ Speakeasy is a audio chatroom application that runs directly in browser. It will
 
 The app aims to provide a platform for people to discuss and debate sensitive topics whilst remaining anonymous. With Speakeasy the users privacy and anonmity comes first. However, should users want to build a reputation they can still do so under a sudoname. All traffic between peers will undergo end-to-end encryption. Users will also have the option to have their audio scrambled before it is mixed into the main audio channel. This will hopefully reduce the potential for users to be identified by their voice.
 
-Conversation will occur in chatrooms. Inside each chatroom there will be a main pool of speakers and moderators, followed by however many listeners.
+Conversation will occur in chatrooms. Inside each chatroom there will be a main pool of speakers and moderators, followed by however many listeners. Of course speakers can leave the main pool and join the listeners and listeners can apply to join the queue to become a speaker. 
 
 For Whom? 
 
