@@ -18,7 +18,7 @@ Scope
 
 This application would require a database to store all the users and chatrooms as well as a dedicated server for mixing audio channels. 
 
-Hopefully once the platform works in-browser we will then also be able to expand cross platform by deploying on top of the Electron framework. 
+Hopefully once the platform works in-browser we will then also be able to expand cross platform to native clients by deploying on top of the Electron framework. 
 
 
 
