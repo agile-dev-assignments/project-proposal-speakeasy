@@ -1,8 +1,8 @@
 # Project Proposal 
 
-Speakeasy
+# Speakeasy
 
-What and why?
+## What and why?
 
 Speakeasy is a audio chatroom application that runs directly in browser. It will utilize Google's WebRTC framework to support low-latency real-time communication. 
 
@@ -10,11 +10,11 @@ The app aims to provide a platform for people to discuss and debate sensitive to
 
 Conversation will occur in chatrooms. Inside each chatroom there will be a main pool of speakers and moderators, followed by however many listeners. Of course speakers can leave the main pool and join the listeners and listeners can apply to join the queue to become a speaker. 
 
-For Whom? 
+## For Whom? 
 
 This app is designed for the free thinker. Every person should have the freedom and ability to think, debate and exchange with others. Whilst moderators will play a part, their primary functions will be to ensure that conversation stays on topic and little more. 
 
-Scope 
+## Scope 
 
 This application would require a database to store all the users and chatrooms as well as a dedicated server for mixing audio channels. 
 
