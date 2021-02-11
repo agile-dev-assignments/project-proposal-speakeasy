@@ -21,5 +21,5 @@ This application would require a database to store all the users and chatrooms a
 Hopefully once the platform works in-browser we will then also be able to expand cross platform to native clients by deploying on top of the Electron framework. 
 
 ## Easter Egg
-Initially anyone will be allowed to visit the Speakeasy website, however the page will not immediately show the application. Users will have to already know the secret button/trap used to unlock the real website. Unless you have been told how to solve this mini puzzle you will be unable to use Speakeasy!
+Anyone will be able to search for the Speakeasy website however the initial page displayed will be fake, hiding the true application. Users will have to already know the secret button/combination used to unlock the real website. Unless you have been told how to solve this mini puzzle you will be unable to use Speakeasy!
 
